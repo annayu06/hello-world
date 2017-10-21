@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hey hi
+  Just creating this during Hackathon. Sophmore at OSU, CSE major.
